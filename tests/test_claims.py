@@ -264,7 +264,7 @@ def test_readme_hat_alle_pflichtabschnitte_und_die_footer_zeile_zuletzt():
     for h in ("## Warum dieses Problem", "## Befunde und Korrekturen gegenüber dem Plan", "## Modell", "## Methodik", "## Befunde (gemessen, keine Behauptungen)", "## Ehrliche Grenzen und 🚧 Nicht gemessen",
               "## Tests", "## Dateistruktur", "## Bewusst nicht umgesetzt", "## Lokal ausführen", "## Tests ausführen"):
         assert h in README, h
-    assert README.rstrip().endswith("Mehr zu den Demos: [Interaktive Demos](https://sebastianhanisch.net/demos.html).")
+    assert README.rstrip().endswith("[Änderungserkennung: Alarm und Lauflänge](https://sebastianhanisch.net/konzepte-aenderungserkennung.html).")
 
 
 def test_dateien_der_dateistruktur_existieren():

@@ -1,7 +1,6 @@
 # Welche Karte wann? Ein Wegweiser für die Änderungserkennung – Streamlit-Demo
 
-<!-- Nach dem Deploy direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-verfahrenswahl-aenderung-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-verfahrenswahl-aenderung-demo.streamlit.app/)**
 
 Stück 9 von 9 der Linie **Änderungserkennung** („Wie schnell merkt man, dass sich etwas geändert hat?“) in der „Konzepte“-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, das Zusammenfluss-Stück. Die Kante zu den Stücken 1 bis 8 und 4b (`lauflaenge-karte-demo`, `cusum-gegen-karte-demo`, `ewma-karte-demo`, `anfangsparameter-demo`, `anfangsparameter-abhaengig-demo`, `abhaengige-werte-demo`, `mehrere-kanaele-demo`, `segmentierung-offline-demo`, `lastwechsel-gate-demo`) ist ein `kontrast`, kein `fix`: das Stück behebt kein Verfahren, es stellt die Verfahren der Stücke davor nebeneinander und sagt, wo jedes aufhört. Die Annahme, die hier aufgehoben wird, steht in keinem Stück davor, sie steht in der Haltung des Lesers danach: **„Es gibt eine beste Karte, und ihre Zahl gilt.“** Links auf diese Demos entstehen mit der Website-Einbindung der Linie; bis dahin stehen sie hier mit Namen, ohne Link und ohne Import. Zahlen anderer Stücke stehen als Belegzeile mit Stücknummer.
 
